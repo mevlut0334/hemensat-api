@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "capacity": "Tümü",
+    "status": true
+  },
+  {
+    "id": 2,
+    "capacity": "16GB",
+    "status": true
+  },
+  {
+    "id": 3,
+    "capacity": "32GB",
+    "status": true
+  },
+  {
+    "id": 4,
+    "capacity": "64GB",
+    "status": true
+  },
+  {
+    "id": 5,
+    "capacity": "128GB",
+    "status": true
+  },
+  {
+    "id": 6,
+    "capacity": "256GB",
+    "status": true
+  },
+  {
+    "id": 7,
+    "capacity": "512GB",
+    "status": true
+  },
+  {
+    "id": 8,
+    "capacity": "1TB",
+    "status": true
+  }
+]

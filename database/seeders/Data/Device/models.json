@@ -1,0 +1,3662 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 17 Pro",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 2,
+    "name": "iPhone 17",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 3,
+    "name": "iPhone 16 Pro Max",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 4,
+    "name": "iPhone 16 Pro",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 5,
+    "name": "iPhone 16 Plus",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 6,
+    "name": "iPhone 16",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 7,
+    "name": "iPhone 15 Pro Max",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 8,
+    "name": "iPhone 15 Pro",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 9,
+    "name": "iPhone 15 Plus",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 10,
+    "name": "iPhone 15",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 11,
+    "name": "iPhone 14 Pro Max",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 12,
+    "name": "iPhone 14 Pro",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 13,
+    "name": "iPhone 14 Plus",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 14,
+    "name": "iPhone 14",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 15,
+    "name": "iPhone 13 Pro Max",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 16,
+    "name": "iPhone 13 Pro",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 17,
+    "name": "iPhone 13 Mini",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 18,
+    "name": "iPhone 13",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 19,
+    "name": "iPhone 12 Pro Max",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 20,
+    "name": "iPhone 12 Pro",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 21,
+    "name": "iPhone 12 Mini",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 22,
+    "name": "iPhone 12",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 23,
+    "name": "iPhone 11 Pro Max",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 24,
+    "name": "iPhone 11 Pro",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 25,
+    "name": "iPhone 11",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 26,
+    "name": "iPhone XR",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 27,
+    "name": "iPhone XS Max",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 28,
+    "name": "iPhone XS",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 29,
+    "name": "iPhone X",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 30,
+    "name": "iPhone 8 Plus",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 31,
+    "name": "iPhone 8",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 32,
+    "name": "iPhone 7 Plus",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 33,
+    "name": "iPhone 7",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 34,
+    "name": "iPhone SE (3. Nesil)",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 35,
+    "name": "iPhone SE (2. Nesil)",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 36,
+    "name": "iPhone SE (1. Nesil)",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 37,
+    "name": "iPhone 6S Plus",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 38,
+    "name": "iPhone 6S",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 39,
+    "name": "iPhone 6 Plus",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 40,
+    "name": "iPhone 6",
+    "brand_id": 1,
+    "status": true
+  },
+  {
+    "id": 41,
+    "name": "Y9 Prime (2019)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 42,
+    "name": "Y7 Pro (2019)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 43,
+    "name": "Y7 Pro (2018)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 44,
+    "name": "Y7 Prime (2019)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 45,
+    "name": "Y7 Prime (2018)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 46,
+    "name": "Y7 (2019)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 47,
+    "name": "Y7 (2018)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 48,
+    "name": "Y6s (2019)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 49,
+    "name": "Y6 Pro (2019)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 50,
+    "name": "Y6 (2019)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 51,
+    "name": "Y6 (2018)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 52,
+    "name": "Y5p",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 53,
+    "name": "Pura 70 Ultra",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 54,
+    "name": "Pura 70 Pro Plus",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 55,
+    "name": "Pura 70 Pro",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 56,
+    "name": "Pura 70",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 57,
+    "name": "P Smart Z",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 58,
+    "name": "P Smart S",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 59,
+    "name": "P Smart Pro",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 60,
+    "name": "P Smart (2021)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 61,
+    "name": "P Smart (2019)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 62,
+    "name": "P Smart",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 63,
+    "name": "Pocket 2",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 64,
+    "name": "P60 Pro",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 65,
+    "name": "P60 Art",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 66,
+    "name": "P50 Pro",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 67,
+    "name": "P50 Pocket",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 68,
+    "name": "P40 Pro Plus",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 69,
+    "name": "P40 Pro",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 70,
+    "name": "P40 Lite E",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 71,
+    "name": "P40 Lite",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 72,
+    "name": "P40",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 73,
+    "name": "P30 Pro",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 74,
+    "name": "P30 Lite",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 75,
+    "name": "P30",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 76,
+    "name": "P20 Pro",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 77,
+    "name": "P20 Lite",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 78,
+    "name": "P20",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 79,
+    "name": "P10 Plus",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 80,
+    "name": "P10 Lite",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 81,
+    "name": "P10",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 82,
+    "name": "P9 Lite",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 83,
+    "name": "P9",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 84,
+    "name": "P8 Lite",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 85,
+    "name": "Y9 Prime (2019)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 86,
+    "name": "Y7 Pro (2019)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 87,
+    "name": "Y7 Pro (2018)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 88,
+    "name": "Y7 Prime (2019)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 89,
+    "name": "Y7 Prime (2018)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 90,
+    "name": "Y7 (2019)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 91,
+    "name": "Y7 (2018)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 92,
+    "name": "Y6s (2019)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 93,
+    "name": "Y6 Pro (2019)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 94,
+    "name": "Y6 (2019)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 95,
+    "name": "Y6 (2018)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 96,
+    "name": "Nova Y91",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 97,
+    "name": "Nova Y90",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 98,
+    "name": "Nova Y70 Plus",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 99,
+    "name": "Nova Y70",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 100,
+    "name": "Nova Plus",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 101,
+    "name": "Nova 12 SE",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 102,
+    "name": "Nova 12s",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 103,
+    "name": "Nova 11 Pro",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 104,
+    "name": "Nova 11",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 105,
+    "name": "Nova 10 SE",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 106,
+    "name": "Nova 10 Pro",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 107,
+    "name": "Nova 10",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 108,
+    "name": "Nova 9 SE",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 109,
+    "name": "Nova 9",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 110,
+    "name": "Nova 8i",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 111,
+    "name": "Nova 7i",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 112,
+    "name": "Nova 5T",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 113,
+    "name": "Nova 5 Pro",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 114,
+    "name": "Nova 5i Pro",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 115,
+    "name": "Nova 5i",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 116,
+    "name": "Nova 5",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 117,
+    "name": "Nova 4",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 118,
+    "name": "Nova 3i (P Smart+)",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 119,
+    "name": "Nova 3",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 120,
+    "name": "Nova",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 121,
+    "name": "Mate XS",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 122,
+    "name": "Mate X",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 123,
+    "name": "Mate RS Porsche Design",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 124,
+    "name": "Mate 60 RS Ultimate",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 125,
+    "name": "Mate 60 Pro Plus",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 126,
+    "name": "Mate 60 Pro",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 127,
+    "name": "Mate 50 RS Porsche Design",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 128,
+    "name": "Mate 50 Pro",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 129,
+    "name": "Mate 50E",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 130,
+    "name": "Mate 50",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 131,
+    "name": "Mate 40 RS Porsche Design",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 132,
+    "name": "Mate 40 Pro",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 133,
+    "name": "Mate 30 RS Porsche Design",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 134,
+    "name": "Mate 30 Pro",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 135,
+    "name": "Mate 30",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 136,
+    "name": "Mate 20 X",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 137,
+    "name": "Mate 20 RS Porsche Design",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 138,
+    "name": "Mate 20 Pro",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 139,
+    "name": "Mate 20 Lite",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 140,
+    "name": "Mate 20",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 141,
+    "name": "Mate 10 Pro",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 142,
+    "name": "Mate 10 Lite",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 143,
+    "name": "Mate 10",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 144,
+    "name": "Mate 9 Pro",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 145,
+    "name": "Mate 9",
+    "brand_id": 2,
+    "status": true
+  },
+  {
+    "id": 146,
+    "name": "Reno 12",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 147,
+    "name": "Reno 11 Pro",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 148,
+    "name": "Reno 11 F",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 149,
+    "name": "Reno 11",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 150,
+    "name": "Reno 10 Pro Plus",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 151,
+    "name": "Reno 8 T",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 152,
+    "name": "Reno 8 Pro Plus",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 153,
+    "name": "Reno 8 Pro",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 154,
+    "name": "Reno 8",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 155,
+    "name": "Reno 7 SE",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 156,
+    "name": "Reno 7 Pro",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 157,
+    "name": "Reno 7",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 158,
+    "name": "Reno 6 Pro Plus",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 159,
+    "name": "Reno 6 Pro",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 160,
+    "name": "Reno 6",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 161,
+    "name": "Reno 5 Z",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 162,
+    "name": "Reno 5 Pro Plus",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 163,
+    "name": "Reno 5 Marvel Edition",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 164,
+    "name": "Reno 5 Lite",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 165,
+    "name": "Reno 5",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 166,
+    "name": "Reno 4 Pro",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 167,
+    "name": "Reno 4 Lite",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 168,
+    "name": "Reno 4",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 169,
+    "name": "Reno Z",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 170,
+    "name": "Reno Ace",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 171,
+    "name": "Reno 3 Pro",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 172,
+    "name": "Reno 3",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 173,
+    "name": "Reno 2 Z",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 174,
+    "name": "Reno 2",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 175,
+    "name": "Reno 10x Zoom",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 176,
+    "name": "Reno",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 177,
+    "name": "R17 Pro",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 178,
+    "name": "R17",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 179,
+    "name": "RX17 Pro",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 180,
+    "name": "RX17 Neo",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 181,
+    "name": "Find X Lamborghini",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 182,
+    "name": "Find X8 Pro",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 183,
+    "name": "Find X7 Ultra",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 184,
+    "name": "Find X6 Pro",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 185,
+    "name": "Find X5 Pro",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 186,
+    "name": "Find X5 Lite",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 187,
+    "name": "Find X3 Pro Photographer",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 188,
+    "name": "Find X3 Pro Mars",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 189,
+    "name": "Find X3 Pro",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 190,
+    "name": "Find X3 Neo",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 191,
+    "name": "Find X3 Lite",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 192,
+    "name": "Find X2 Pro",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 193,
+    "name": "Find X2",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 194,
+    "name": "Find X",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 195,
+    "name": "F3",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 196,
+    "name": "F1",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 197,
+    "name": "A96",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 198,
+    "name": "A91",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 199,
+    "name": "A83",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 200,
+    "name": "A80",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 201,
+    "name": "A79",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 202,
+    "name": "A78",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 203,
+    "name": "A77",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 204,
+    "name": "A74",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 205,
+    "name": "A73",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 206,
+    "name": "A72",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 207,
+    "name": "A60",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 208,
+    "name": "A59",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 209,
+    "name": "A57",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 210,
+    "name": "A55",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 211,
+    "name": "A54",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 212,
+    "name": "A53",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 213,
+    "name": "A52",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 214,
+    "name": "A31",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 215,
+    "name": "A16",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 216,
+    "name": "A15s",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 217,
+    "name": "A15",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 218,
+    "name": "A12",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 219,
+    "name": "A9 2020",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 220,
+    "name": "A5S",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 221,
+    "name": "A5 (2020)",
+    "brand_id": 3,
+    "status": true
+  },
+  {
+    "id": 222,
+    "name": "GT Neo 5",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 223,
+    "name": "GT Neo 3",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 224,
+    "name": "GT Neo 2",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 225,
+    "name": "GT Neo",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 226,
+    "name": "GT Master Edition",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 227,
+    "name": "GT 6",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 228,
+    "name": "GT 5 Pro",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 229,
+    "name": "GT 5",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 230,
+    "name": "GT 3",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 231,
+    "name": "GT 2 Pro",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 232,
+    "name": "GT 2",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 233,
+    "name": "GT",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 234,
+    "name": "C67",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 235,
+    "name": "C55",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 236,
+    "name": "C53",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 237,
+    "name": "C25Y",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 238,
+    "name": "C25S",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 239,
+    "name": "C25",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 240,
+    "name": "C21Y",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 241,
+    "name": "C21",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 242,
+    "name": "13 Plus",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 243,
+    "name": "13",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 244,
+    "name": "12 Pro Plus",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 245,
+    "name": "12 Pro",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 246,
+    "name": "12 Lite",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 247,
+    "name": "12",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 248,
+    "name": "11X",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 249,
+    "name": "11 Pro Plus",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 250,
+    "name": "11 Pro",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 251,
+    "name": "11 5G",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 252,
+    "name": "11",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 253,
+    "name": "10 Pro Plus",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 254,
+    "name": "10 Pro",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 255,
+    "name": "10",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 256,
+    "name": "9 Pro",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 257,
+    "name": "9i",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 258,
+    "name": "8 Pro",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 259,
+    "name": "8",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 260,
+    "name": "7 Pro",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 261,
+    "name": "6 Pro",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 262,
+    "name": "6i",
+    "brand_id": 4,
+    "status": true
+  },
+  {
+    "id": 263,
+    "name": "Galaxy Z Fold 6",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 264,
+    "name": "Galaxy Z Fold 5",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 265,
+    "name": "Galaxy Z Fold 4",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 266,
+    "name": "Galaxy Z Fold 3",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 267,
+    "name": "Galaxy Z Fold 2",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 268,
+    "name": "Galaxy Z Flip 6",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 269,
+    "name": "Galaxy Z Flip 5",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 270,
+    "name": "Galaxy Z Flip 4",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 271,
+    "name": "Galaxy Z Flip 3",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 272,
+    "name": "Galaxy Z Flip",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 273,
+    "name": "Galaxy S24 Ultra",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 274,
+    "name": "Galaxy S24 FE",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 275,
+    "name": "Galaxy S24+",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 276,
+    "name": "Galaxy S24",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 277,
+    "name": "Galaxy S23 Ultra",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 278,
+    "name": "Galaxy S23 FE",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 279,
+    "name": "Galaxy S23+",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 280,
+    "name": "Galaxy S23",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 281,
+    "name": "Galaxy S22 Ultra",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 282,
+    "name": "Galaxy S22+",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 283,
+    "name": "Galaxy S22",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 284,
+    "name": "Galaxy S21 Ultra",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 285,
+    "name": "Galaxy S21 FE",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 286,
+    "name": "Galaxy S21+",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 287,
+    "name": "Galaxy S21",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 288,
+    "name": "Galaxy S20 Ultra",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 289,
+    "name": "Galaxy S20 FE",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 290,
+    "name": "Galaxy S20+ BTS Edition",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 291,
+    "name": "Galaxy S20+",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 292,
+    "name": "Galaxy S20",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 293,
+    "name": "Galaxy S10 Lite",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 294,
+    "name": "Galaxy S10e",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 295,
+    "name": "Galaxy S10 5G",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 296,
+    "name": "Galaxy S10+",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 297,
+    "name": "Galaxy S10",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 298,
+    "name": "Galaxy S9 G960",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 299,
+    "name": "Galaxy S9+ G965",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 300,
+    "name": "Galaxy S8 G950",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 301,
+    "name": "Galaxy S8+ G955",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 302,
+    "name": "Galaxy Note 20 Ultra 5G",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 303,
+    "name": "Galaxy Note 20 Ultra",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 304,
+    "name": "Galaxy Note 20 5G",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 305,
+    "name": "Galaxy Note 20",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 306,
+    "name": "Galaxy Note10 Lite",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 307,
+    "name": "Galaxy Note 10+ 5G",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 308,
+    "name": "Galaxy Note 10+",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 309,
+    "name": "Galaxy Note 10",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 310,
+    "name": "Galaxy Note 9 N960",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 311,
+    "name": "Galaxy Note 8 N950",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 312,
+    "name": "Galaxy Note Edge",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 313,
+    "name": "Galaxy Note Fan Edition",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 314,
+    "name": "Galaxy M62",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 315,
+    "name": "Galaxy M54",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 316,
+    "name": "Galaxy M53",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 317,
+    "name": "Galaxy M52",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 318,
+    "name": "Galaxy M51",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 319,
+    "name": "Galaxy M40",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 320,
+    "name": "Galaxy M35",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 321,
+    "name": "Galaxy M34 5G",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 322,
+    "name": "Galaxy M33 5G",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 323,
+    "name": "Galaxy M32",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 324,
+    "name": "Galaxy M31s",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 325,
+    "name": "Galaxy M31",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 326,
+    "name": "Galaxy M30s",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 327,
+    "name": "Galaxy M30",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 328,
+    "name": "Galaxy M23",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 329,
+    "name": "Galaxy M22",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 330,
+    "name": "Galaxy M21",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 331,
+    "name": "Galaxy M20",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 332,
+    "name": "Galaxy M15",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 333,
+    "name": "Galaxy M14",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 334,
+    "name": "Galaxy M13",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 335,
+    "name": "Galaxy M12",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 336,
+    "name": "Galaxy M11",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 337,
+    "name": "Galaxy M10s",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 338,
+    "name": "Galaxy M10",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 339,
+    "name": "Galaxy J7 Pro",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 340,
+    "name": "Galaxy J7 Prime 2",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 341,
+    "name": "Galaxy J7 Prime",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 342,
+    "name": "Galaxy J7 Core",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 343,
+    "name": "Galaxy J6",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 344,
+    "name": "Galaxy J5 Pro",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 345,
+    "name": "Galaxy J4+",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 346,
+    "name": "Galaxy J3 Pro",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 347,
+    "name": "Galaxy Grand Prime Pro",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 348,
+    "name": "Galaxy C9 Pro",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 349,
+    "name": "Galaxy C8",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 350,
+    "name": "Galaxy C7 Pro",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 351,
+    "name": "Galaxy C7",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 352,
+    "name": "Galaxy C5",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 353,
+    "name": "Galaxy Alpha G850",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 354,
+    "name": "Galaxy A90",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 355,
+    "name": "Galaxy A80",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 356,
+    "name": "Galaxy A73",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 357,
+    "name": "Galaxy A72",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 358,
+    "name": "Galaxy A71",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 359,
+    "name": "Galaxy A70",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 360,
+    "name": "Galaxy A60",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 361,
+    "name": "Galaxy A55",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 362,
+    "name": "Galaxy A54",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 363,
+    "name": "Galaxy A53",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 364,
+    "name": "Galaxy A52s",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 365,
+    "name": "Galaxy A52",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 366,
+    "name": "Galaxy A51",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 367,
+    "name": "Galaxy A50",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 368,
+    "name": "Galaxy A41",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 369,
+    "name": "Galaxy A40",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 370,
+    "name": "Galaxy A35",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 371,
+    "name": "Galaxy A34",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 372,
+    "name": "Galaxy A33",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 373,
+    "name": "Galaxy A32",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 374,
+    "name": "Galaxy A31",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 375,
+    "name": "Galaxy A30s",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 376,
+    "name": "Galaxy A30",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 377,
+    "name": "Galaxy A25",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 378,
+    "name": "Galaxy A24",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 379,
+    "name": "Galaxy A23",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 380,
+    "name": "Galaxy A22",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 381,
+    "name": "Galaxy A21s",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 382,
+    "name": "Galaxy A21",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 383,
+    "name": "Galaxy A20s",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 384,
+    "name": "Galaxy A20e",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 385,
+    "name": "Galaxy A20",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 386,
+    "name": "Galaxy A15",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 387,
+    "name": "Galaxy A14",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 388,
+    "name": "Galaxy A13",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 389,
+    "name": "Galaxy A12",
+    "brand_id": 5,
+    "status": true
+  },
+  {
+    "id": 390,
+    "name": "Y83 Pro",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 391,
+    "name": "Y83",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 392,
+    "name": "Y70",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 393,
+    "name": "Y53s",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 394,
+    "name": "Y51",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 395,
+    "name": "Y36",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 396,
+    "name": "Y35",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 397,
+    "name": "Y33s",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 398,
+    "name": "Y28",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 399,
+    "name": "Y27",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 400,
+    "name": "Y22s",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 401,
+    "name": "Y21s",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 402,
+    "name": "Y21",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 403,
+    "name": "Y20",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 404,
+    "name": "Y18",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 405,
+    "name": "Y17s",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 406,
+    "name": "Y16",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 407,
+    "name": "Y15s",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 408,
+    "name": "Y11s",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 409,
+    "name": "X200 Pro",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 410,
+    "name": "X100 Ultra",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 411,
+    "name": "X100 Pro",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 412,
+    "name": "X100",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 413,
+    "name": "X90 Pro+",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 414,
+    "name": "X90 Pro",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 415,
+    "name": "X90",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 416,
+    "name": "X80 Pro",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 417,
+    "name": "X80",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 418,
+    "name": "X70 Pro+",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 419,
+    "name": "X70 Pro",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 420,
+    "name": "X70",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 421,
+    "name": "X60 Pro+",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 422,
+    "name": "X60 Pro",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 423,
+    "name": "X51",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 424,
+    "name": "X50 Pro+",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 425,
+    "name": "X50 Pro",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 426,
+    "name": "X50 Lite",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 427,
+    "name": "X50",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 428,
+    "name": "V40 Pro",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 429,
+    "name": "V40",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 430,
+    "name": "V30 Lite",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 431,
+    "name": "V30",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 432,
+    "name": "V29 Lite",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 433,
+    "name": "V29",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 434,
+    "name": "V25",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 435,
+    "name": "V23",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 436,
+    "name": "V21",
+    "brand_id": 6,
+    "status": true
+  },
+  {
+    "id": 437,
+    "name": "Redmi S2",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 438,
+    "name": "Redmi Note 14 Pro Plus",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 439,
+    "name": "Redmi Note 14 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 440,
+    "name": "Redmi Note 14",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 441,
+    "name": "Redmi Note 13 Pro Plus",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 442,
+    "name": "Redmi Note 13 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 443,
+    "name": "Redmi Note 13",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 444,
+    "name": "Redmi Note 12 Turbo",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 445,
+    "name": "Redmi Note 12S",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 446,
+    "name": "Redmi Note 12 Pro Plus",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 447,
+    "name": "Redmi Note 12 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 448,
+    "name": "Redmi Note 12 Explorer",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 449,
+    "name": "Redmi Note 12",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 450,
+    "name": "Redmi Note 11T Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 451,
+    "name": "Redmi Note 11SE",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 452,
+    "name": "Redmi Note 11S",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 453,
+    "name": "Redmi Note 11R",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 454,
+    "name": "Redmi Note 11 Pro Plus",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 455,
+    "name": "Redmi Note 11 Pro 5G",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 456,
+    "name": "Redmi Note 11 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 457,
+    "name": "Redmi Note 11E",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 458,
+    "name": "Redmi Note 11",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 459,
+    "name": "Redmi Note 10S",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 460,
+    "name": "Redmi Note 10 Pro Max",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 461,
+    "name": "Redmi Note 10 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 462,
+    "name": "Redmi Note 10 5G",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 463,
+    "name": "Redmi Note 10",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 464,
+    "name": "Redmi Note 9T",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 465,
+    "name": "Redmi Note 9S",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 466,
+    "name": "Redmi Note 9 Pro Max",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 467,
+    "name": "Redmi Note 9 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 468,
+    "name": "Redmi Note 9",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 469,
+    "name": "Redmi Note 8T",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 470,
+    "name": "Redmi Note 8 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 471,
+    "name": "Redmi Note 8 2021",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 472,
+    "name": "Redmi Note 8",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 473,
+    "name": "Redmi Note 7",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 474,
+    "name": "Redmi Note 6 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 475,
+    "name": "Redmi Note 5",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 476,
+    "name": "Redmi Note 4X",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 477,
+    "name": "Redmi K30",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 478,
+    "name": "Redmi Go",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 479,
+    "name": "Redmi 14C",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 480,
+    "name": "Redmi 13R",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 481,
+    "name": "Redmi 13C",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 482,
+    "name": "Redmi 13",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 483,
+    "name": "Redmi 12C",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 484,
+    "name": "Redmi 12",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 485,
+    "name": "Redmi 10X Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 486,
+    "name": "Redmi 10X",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 487,
+    "name": "Redmi 10C",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 488,
+    "name": "Redmi 10A",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 489,
+    "name": "Redmi 10 2022",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 490,
+    "name": "Redmi 10",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 491,
+    "name": "Redmi 9T",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 492,
+    "name": "Redmi 9 Prime",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 493,
+    "name": "Redmi 9C",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 494,
+    "name": "Redmi 9A",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 495,
+    "name": "Redmi 9",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 496,
+    "name": "Redmi 8A Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 497,
+    "name": "Redmi 8A Dual",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 498,
+    "name": "Redmi 8A",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 499,
+    "name": "Redmi 8",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 500,
+    "name": "Redmi 7A",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 501,
+    "name": "Redmi 7",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 502,
+    "name": "Redmi 6A",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 503,
+    "name": "Redmi 6",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 504,
+    "name": "Redmi 5 Plus",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 505,
+    "name": "Redmi 5A",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 506,
+    "name": "Redmi 5",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 507,
+    "name": "Poco X6 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 508,
+    "name": "Poco X6 Neo",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 509,
+    "name": "Poco X6",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 510,
+    "name": "Poco X5 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 511,
+    "name": "Poco X5",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 512,
+    "name": "Poco X4 Pro 5G",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 513,
+    "name": "Poco X4 GT",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 514,
+    "name": "Poco X3 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 515,
+    "name": "Poco X3 GT",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 516,
+    "name": "Poco X3",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 517,
+    "name": "Poco X2",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 518,
+    "name": "Pocophone F1",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 519,
+    "name": "Poco M6 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 520,
+    "name": "Poco M6",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 521,
+    "name": "Poco M5",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 522,
+    "name": "Poco M4 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 523,
+    "name": "Poco M3 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 524,
+    "name": "Poco M3",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 525,
+    "name": "Poco M2 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 526,
+    "name": "Poco F6 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 527,
+    "name": "Poco F6",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 528,
+    "name": "Poco F5 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 529,
+    "name": "Poco F5",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 530,
+    "name": "Poco F4 GT",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 531,
+    "name": "Poco F4",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 532,
+    "name": "Poco F3",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 533,
+    "name": "Poco F2 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 534,
+    "name": "Poco C65",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 535,
+    "name": "Poco C55",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 536,
+    "name": "Poco C51",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 537,
+    "name": "Poco C50",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 538,
+    "name": "Poco C40",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 539,
+    "name": "Mi Play",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 540,
+    "name": "Mi Note 10 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 541,
+    "name": "Mi Note 10 Lite",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 542,
+    "name": "Mi Note 10",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 543,
+    "name": "Mi Note 3",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 544,
+    "name": "Mi Note 2",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 545,
+    "name": "Mi Mix Fold 4",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 546,
+    "name": "Mi Mix Fold 3",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 547,
+    "name": "Mi Mix Fold 2",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 548,
+    "name": "Mi Mix 3",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 549,
+    "name": "Mi Mix 2",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 550,
+    "name": "Mi Mix",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 551,
+    "name": "Mi Max 3",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 552,
+    "name": "Mi Max 2",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 553,
+    "name": "Mi Max",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 554,
+    "name": "Mi A3",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 555,
+    "name": "Mi 11X Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 556,
+    "name": "Mi 11X",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 557,
+    "name": "Mi 11 Ultra",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 558,
+    "name": "Mi 11T Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 559,
+    "name": "Mi 11T",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 560,
+    "name": "Mi 11 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 561,
+    "name": "Mi 11 Lite 5G NE",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 562,
+    "name": "Mi 11 Lite 5G",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 563,
+    "name": "Mi 11 Lite",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 564,
+    "name": "Mi 11i",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 565,
+    "name": "Mi 11",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 566,
+    "name": "Mi 10 Youth",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 567,
+    "name": "Mi 10 Ultra",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 568,
+    "name": "Mi 10 T Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 569,
+    "name": "Mi 10 T Lite",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 570,
+    "name": "Mi 10 T",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 571,
+    "name": "Mi 10S",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 572,
+    "name": "Mi 10 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 573,
+    "name": "Mi 10 Lite",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 574,
+    "name": "Mi 10i 5G",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 575,
+    "name": "Mi 10",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 576,
+    "name": "Mi 9T Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 577,
+    "name": "Mi 9T",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 578,
+    "name": "Mi 9 SE",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 579,
+    "name": "Mi 9 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 580,
+    "name": "Mi 9 Lite",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 581,
+    "name": "Mi 9 Explorer",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 582,
+    "name": "Mi 9",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 583,
+    "name": "Mi 8 SE",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 584,
+    "name": "Mi 8 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 585,
+    "name": "Mi 8 Lite",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 586,
+    "name": "Mi 8 Explorer",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 587,
+    "name": "Mi 8",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 588,
+    "name": "Mi 6",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 589,
+    "name": "15 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 590,
+    "name": "15",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 591,
+    "name": "14 Ultra",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 592,
+    "name": "14T Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 593,
+    "name": "14T",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 594,
+    "name": "14 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 595,
+    "name": "14",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 596,
+    "name": "13 Ultra",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 597,
+    "name": "13T Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 598,
+    "name": "13T",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 599,
+    "name": "13 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 600,
+    "name": "13 Lite",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 601,
+    "name": "13",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 602,
+    "name": "12X",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 603,
+    "name": "12T Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 604,
+    "name": "12T",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 605,
+    "name": "12S Ultra",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 606,
+    "name": "12S Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 607,
+    "name": "12S",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 608,
+    "name": "12 Pro",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 609,
+    "name": "12 Lite",
+    "brand_id": 7,
+    "status": true
+  },
+  {
+    "id": 610,
+    "name": "12",
+    "brand_id": 7,
+    "status": true
+  }
+]

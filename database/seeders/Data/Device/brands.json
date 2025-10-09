@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Apple",
+        "status": true
+    },
+    {
+        "id": 2,
+        "name": "Huawei",
+        "status": true
+    },
+    {
+        "id": 3,
+        "name": "Oppo",
+        "status": true
+    },
+    {
+        "id": 4,
+        "name": "Realme",
+        "status": true
+    },
+    {
+        "id": 5,
+        "name": "Samsung",
+        "status": true
+    },
+    {
+        "id": 6,
+        "name": "Vivo",
+        "status": true
+    },
+    {
+        "id": 7,
+        "name": "Xiaomi",
+        "status": true
+    }
+]

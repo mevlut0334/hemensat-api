@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Tümü",
+    "status": true
+  },
+  {
+    "id": 2,
+    "name": "Türkiye'den Alındı",
+    "status": true
+  },
+  {
+    "id": 3,
+    "name": "Yurtdışından Alındı (Pasaport Kaydı 3 Yıldan Az)",
+    "status": true
+  },
+  {
+    "id": 4,
+    "name": "Yurtdışından Alındı (Pasaport Kaydı 3 Yıldan Fazla)",
+    "status": true
+  },
+  {
+    "id": 5,
+    "name": "Yurtdışından Alındı (Pasaport Kaydı Bulunmuyor)",
+    "status": true
+  }
+]
