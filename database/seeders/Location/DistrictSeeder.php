@@ -15,7 +15,9 @@ class DistrictSeeder extends Seeder
      */
     public function run(): void
     {
-        $json = File::get(database_path('seeders/data/location/districts.json'));
+        //$json = File::get(database_path('seeders/data/location/districts.json'));
+         // ✅ Linux uyumlu path (Data/Location büyük harfle)
+        $json = File::get(database_path('seeders/Data/Location/districts.json'));
         $data = json_decode($json, true);
 
         foreach ($data as $districtData) {

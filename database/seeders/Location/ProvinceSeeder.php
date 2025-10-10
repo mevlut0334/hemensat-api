@@ -13,7 +13,9 @@ class ProvinceSeeder extends Seeder
      */
     public function run(): void
     {
-        $json = File::get(database_path('seeders/data/location/provinces.json'));
+        //$json = File::get(database_path('seeders/data/location/provinces.json'));
+        // ✅ Linux uyumlu path (Data/Location büyük harfle)
+        $json = File::get(database_path('seeders/Data/Location/provinces.json'));
         $data = json_decode($json, true);
 
         foreach ($data as $province) {
