@@ -63,9 +63,9 @@ class Image extends Model
     public function scopeForListing($query, $listingId, $listingType)
     {
         return $query->where('imageable_id', $listingId)
-            ->where('imageable_type', $listingType)
-            ->active()
-            ->ordered();
+                    ->where('imageable_type', $listingType)
+                    ->active()
+                    ->ordered();
     }
 
     // === ACCESSORS ===
@@ -83,16 +83,16 @@ class Image extends Model
     }
 
     /**
-     * Absolute full URL (for mobile apps)
-     */
-    public function getFullUrlAttribute(): ?string
-    {
-        if (!$this->path) {
-            return null;
-        }
-
-        return url('storage/' . $this->path);
+ * Absolute full URL (for mobile apps)
+ */
+public function getFullUrlAttribute(): ?string
+{
+    if (!$this->path) {
+        return null;
     }
+
+    return url('storage/' . $this->path);
+}
 
     /**
      * File extension
@@ -183,9 +183,9 @@ class Image extends Model
     {
         // Önce diğer resimleri primary değil olarak işaretle
         static::where('imageable_id', $this->imageable_id)
-            ->where('imageable_type', $this->imageable_type)
-            ->where('id', '!=', $this->id)
-            ->update(['is_primary' => false]);
+              ->where('imageable_type', $this->imageable_type)
+              ->where('id', '!=', $this->id)
+              ->update(['is_primary' => false]);
 
         // Bu resmi primary yap
         $this->update(['is_primary' => true]);
