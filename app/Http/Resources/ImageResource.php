@@ -33,6 +33,7 @@ class ImageResource extends JsonResource
             "is_primary" => (bool) $this->is_primary,
             "status" => $this->status,
             "url" => $this->url,
+            "full_url" => $this->full_url,  // ⬅️ SADECE BU SATIRI EKLEYIN
             "thumbnail_url" => $this->thumbnail_url,
             "created_at" => $this->created_at->format("Y-m-d H:i:s"),
             "updated_at" => $this->updated_at->format("Y-m-d H:i:s"),
