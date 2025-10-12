@@ -35,6 +35,7 @@ class OfferStoreRequest extends FormRequest
         return [
             // Zorunlu alanlar
             'offer_price' => ['required', 'numeric', 'min:0.01'],
+            'phone_number' => ['required', 'string', 'regex:/^[0-9]{10,15}$/'],
             'offerable_type' => [
                 'required',
                 'string',
@@ -85,6 +86,7 @@ class OfferStoreRequest extends FormRequest
             'offer_price.required' => 'Lütfen bir teklif fiyatı giriniz.',
             'offer_price.numeric' => 'Teklif fiyatı sayısal olmalıdır.',
             'offer_price.min' => 'Teklif fiyatı 0\'dan büyük olmalıdır.',
+            'phone_number.required' => 'Lütfen telefon numaranızı giriniz.',
             'offerable_type.in' => 'Geçersiz ilan tipi belirtildi.',
             'offerable_id.exists' => 'Teklif vermek istediğiniz ilan bulunamadı.',
         ];

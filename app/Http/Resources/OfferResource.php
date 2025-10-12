@@ -17,6 +17,7 @@ class OfferResource extends JsonResource
         return [
             'id' => $this->id,
             'offer_price' => (float) $this->offer_price,
+            'phone_number' => $this->phone_number,
             'status' => $this->status, // pending, accepted, rejected
             'submitted_at' => $this->created_at->format('Y-m-d H:i:s'),
 

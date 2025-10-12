@@ -15,6 +15,7 @@ class Offer extends Model
     protected $fillable = [
         'user_id',
         'offer_price',
+        'phone_number',
         'status',
         'offerable_type',
         'offerable_id',
