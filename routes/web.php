@@ -4,11 +4,21 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Admin\AdminSubscriptionViewController;
 use App\Http\Controllers\Admin\AuthController;
 use App\Http\Controllers\Admin\DashboardController;
+use App\Http\Controllers\PageController;
 
 // Anasayfa
 Route::get('/', function () {
     return view('welcome');
 });
+
+
+
+// Statik Sayfalar
+Route::get('/subscription', [PageController::class, 'subscription'])->name('subscription');
+Route::get('/faq', [PageController::class, 'faq'])->name('faq');
+Route::get('/about', [PageController::class, 'about'])->name('about');
+Route::get('/privacy-policy', [PageController::class, 'privacyPolicy'])->name('privacy-policy');
+Route::get('/kvkk', [PageController::class, 'kvkk'])->name('kvkk');
 
 // =============================================================================
 // ADMİN GİRİŞ ROTALARI
