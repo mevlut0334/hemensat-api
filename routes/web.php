@@ -32,7 +32,7 @@ Route::post('/admin/login', [AuthController::class, 'login'])->name('admin.login
 // ADMİN PANEL ROTALARI (Auth gerekli)
 // =============================================================================
 
-Route::middleware(['auth'])->prefix('admin')->name('admin.')->group(function () {
+Route::middleware(['auth','ensure.admin'])->prefix('admin')->name('admin.')->group(function () {
 
     // Çıkış
     Route::post('/logout', [AuthController::class, 'logout'])->name('logout');

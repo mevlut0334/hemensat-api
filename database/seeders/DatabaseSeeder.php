@@ -26,6 +26,10 @@ class DatabaseSeeder extends Seeder
         $this->call(DeviceSeeder::class);
         $this->command->line('');
 
+        $this->command->info('👤 Admin kullanıcı oluşturuluyor...');
+        $this->call(AdminUserSeeder::class);
+        $this->command->line('');
+
         $this->command->info('🎉 Tüm veriler başarıyla yüklendi!');
         $this->command->info('✅ Veritabanı seeding tamamlandı.');
     }

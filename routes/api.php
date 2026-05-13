@@ -188,7 +188,7 @@ Route::middleware("auth:sanctum")->group(function () {
 // ADMİN ROTALARI (auth:sanctum + admin middleware)
 // =============================================================================
 
-Route::middleware(['auth:sanctum'])->prefix('admin')->group(function () {
+Route::middleware(['auth:sanctum','is.admin'])->prefix('admin')->group(function () {
 
     // Abonelik yönetimi
     Route::prefix('subscriptions')->group(function () {
