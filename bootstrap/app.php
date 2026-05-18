@@ -13,6 +13,8 @@ return Application::configure(basePath: dirname(__DIR__))
     )
     ->withMiddleware(function (Middleware $middleware): void {
 
+        $middleware->redirectGuestsTo('/admin/login');
+
         // Middleware Takma Adlarını (Alias) Tanımlama
         $middleware->alias([
             // Teklif Verme Kontrolü
