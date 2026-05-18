@@ -10,6 +10,7 @@ use App\Http\Controllers\Api\UserController;
 use App\Http\Controllers\Api\ImageController;
 use App\Http\Controllers\Api\RepairListingController;
 use App\Http\Controllers\Api\OfferController;
+use App\Http\Controllers\Api\FcmTokenController;
 use App\Http\Controllers\Api\Admin\SubscriptionController;
 
 // =============================================================================
@@ -181,6 +182,11 @@ Route::middleware("auth:sanctum")->group(function () {
 
     // İlana ait teklifleri görüntüleme (sadece ilan sahibi - abone olmaya gerek yok)
     Route::get('listings/{type}/{id}/offers', [OfferController::class, 'index']);
+
+    // --------------------------------------------------------------------------
+    // FCM TOKEN
+    // --------------------------------------------------------------------------
+    Route::post('/fcm-token', [FcmTokenController::class, 'store']);
 
 }); // ← auth:sanctum group'u burada bitiyor
 

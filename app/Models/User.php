@@ -9,6 +9,7 @@ use Laravel\Sanctum\HasApiTokens;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 use App\Models\SaleListing;
+use App\Models\UserFcmToken;
 
 class User extends Authenticatable
 {
@@ -103,4 +104,8 @@ class User extends Authenticatable
     // Eğer veritabanında 'is_subscribed' sütununuz varsa, doğru kontrol budur.
     return (bool) $this->is_subscribed;
 }
+public function fcmTokens(): HasMany
+    {
+        return $this->hasMany(UserFcmToken::class);
+    }
 }
