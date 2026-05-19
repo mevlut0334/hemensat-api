@@ -6,6 +6,7 @@ use Kreait\Firebase\Contract\Messaging;
 use Kreait\Firebase\Messaging\CloudMessage;
 use Kreait\Firebase\Messaging\Notification;
 use App\Models\UserFcmToken;
+use Illuminate\Support\Facades\Log;
 
 class FcmService
 {
@@ -17,7 +18,13 @@ class FcmService
             $q->where('district_id', $districtId);
         })->pluck('fcm_token')->toArray();
 
+        Log::info('FCM sendToDistrict', [
+            'district_id' => $districtId,
+            'token_count' => count($tokens),
+        ]);
+
         if (empty($tokens)) {
+            Log::info('FCM: Token bulunamadı, bildirim gönderilmedi.', ['district_id' => $districtId]);
             return;
         }
 
@@ -27,6 +34,11 @@ class FcmService
             ->withNotification($notification)
             ->withData($data);
 
-        $this->messaging->sendMulticast($message, $tokens);
+        try {
+            $this->messaging->sendMulticast($message, $tokens);
+            Log::info('FCM: Bildirim gönderildi.', ['district_id' => $districtId, 'token_count' => count($tokens)]);
+        } catch (\Exception $e) {
+            Log::error('FCM: Bildirim gönderilemedi.', ['error' => $e->getMessage()]);
+        }
     }
 }
