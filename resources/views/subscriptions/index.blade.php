@@ -312,7 +312,7 @@
             <div class="pricing-card">
                 <h2>Premium Üyelik Paketi</h2>
                 <div class="price">
-                    ₺299<span class="price-period">/ay</span>
+                    ₺499<span class="price-period">/ay</span>
                 </div>
                 <p style="opacity: 0.95;">Tüm premium özelliklere sınırsız erişim</p>
             </div>
