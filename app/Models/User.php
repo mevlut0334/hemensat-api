@@ -73,11 +73,27 @@ class User extends Authenticatable
     }
 
     /**
+     * Kullanıcının tamir ilanı ilişkisi
+     */
+    public function repairListings(): HasMany
+    {
+        return $this->hasMany(RepairListing::class, "user_id");
+    }
+
+    /**
+     * Kullanıcının verdiği teklifler
+     */
+    public function offers(): HasMany
+    {
+        return $this->hasMany(Offer::class, "user_id");
+    }
+
+    /**
      * Kullanıcının yeni bir satış ilanı oluşturması
      *
      * @param array $data İlan verileri (title, description, brand_id vs.)
      * @param array $images Yüklenen resimler (opsiyonel)
-     * @return \App\Models\SaleListing
+     * @return SaleListing
      */
     public function createSaleListing(array $data, array $images = []): SaleListing
     {

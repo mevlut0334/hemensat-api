@@ -188,6 +188,10 @@ Route::middleware("auth:sanctum")->group(function () {
     // --------------------------------------------------------------------------
     Route::post('/fcm-token', [FcmTokenController::class, 'store']);
 
+    // HESAP SİLME
+    // --------------------------------------------------------------------------
+    Route::delete('/account', [\App\Http\Controllers\Api\AccountDeletionController::class, 'destroy']);
+
 }); // ← auth:sanctum group'u burada bitiyor
 
 // =============================================================================
