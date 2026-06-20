@@ -316,7 +316,7 @@
                         <span class="faq-icon">▼</span>
                     </button>
                     <div class="faq-answer">
-                        <p>Premium üyelik için 0 547 722 92 92 numaralı telefondan bizimle iletişime geçebilirsiniz. Aylık 299 TL karşılığında tüm premium özelliklere erişim sağlayabilirsiniz.</p>
+                        <p>Premium üyelik için 0 547 722 92 92 numaralı telefondan bizimle iletişime geçebilirsiniz. Aylık 499 TL karşılığında tüm premium özelliklere erişim sağlayabilirsiniz.</p>
                     </div>
                 </div>
 

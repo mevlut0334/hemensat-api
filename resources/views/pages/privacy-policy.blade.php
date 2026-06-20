@@ -635,7 +635,7 @@
                                 <div class="shield-icon">📞</div>
                                 <div class="highlight-box-content">
                                     <h4>İletişim Bilgileri</h4>
-                                    <p>Size yardımcı olmak için buradayız</p>
+                                    <p>ADEM KAYA</p>
                                 </div>
                             </div>
                             <div class="contact-box">
