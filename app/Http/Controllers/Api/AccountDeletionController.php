@@ -21,13 +21,21 @@ class AccountDeletionController extends Controller
      */
     public function destroy(Request $request): JsonResponse
     {
-        $user = $request->user();
+        $authUser = $request->user();
 
-        if (!$user) {
+        if (!$authUser) {
             return response()->json([
                 'message' => 'Kullanıcı bulunamadı.'
             ], 404);
         }
+        // AuthUser yerine User modelini kullan (ilişkiler orada tanımlı)
+    $user = \App\Models\User::find($authUser->id);
+
+    if (!$user) {
+        return response()->json([
+            'message' => 'Kullanıcı bulunamadı.'
+        ], 404);
+    }
 
         try {
             DB::transaction(function () use ($user) {
