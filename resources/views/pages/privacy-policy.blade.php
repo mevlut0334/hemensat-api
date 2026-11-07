@@ -443,11 +443,6 @@
                         </p>
                         <div class="info-cards">
                             <div class="info-card">
-                                <div class="info-card-icon">👤</div>
-                                <h4>Kimlik Bilgileri</h4>
-                                <p>Ad, soyad, kullanıcı adı gibi temel kimlik bilgileriniz</p>
-                            </div>
-                            <div class="info-card">
                                 <div class="info-card-icon">📧</div>
                                 <h4>İletişim Bilgileri</h4>
                                 <p>E-posta adresi, telefon numarası gibi iletişim bilgileriniz</p>

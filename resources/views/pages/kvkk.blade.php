@@ -392,7 +392,7 @@
                     </div>
                     <div class="section-content">
                         <p>
-                            [Şirket Adı], 6698 sayılı Kişisel Verilerin Korunması Kanunu ("KVKK") uyarınca veri sorumlusu sıfatıyla hareket etmektedir. Kişisel verilerinizin işlenmesi ile ilgili tüm süreçler veri sorumlusu tarafından yönetilmekte ve sorumluluğu taşınmaktadır.
+                            [Telofon Dünyası], 6698 sayılı Kişisel Verilerin Korunması Kanunu ("KVKK") uyarınca veri sorumlusu sıfatıyla hareket etmektedir. Kişisel verilerinizin işlenmesi ile ilgili tüm süreçler veri sorumlusu tarafından yönetilmekte ve sorumluluğu taşınmaktadır.
                         </p>
                     </div>
                 </div>

@@ -17,6 +17,39 @@
             min-height: 100vh;
         }
 
+        .top-bar {
+            background: #1a202c;
+            color: white;
+            padding: 12px 20px;
+        }
+
+        .top-bar-inner {
+            max-width: 1100px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 10px 30px;
+        }
+
+        .top-bar a {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            color: white;
+            text-decoration: none;
+            font-size: 15px;
+            font-weight: 500;
+            opacity: 0.9;
+            transition: all 0.3s ease;
+        }
+
+        .top-bar a:hover {
+            opacity: 1;
+            color: #a5b4fc;
+        }
+
         .hero-section {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
@@ -148,35 +181,6 @@
             font-weight: 600;
         }
 
-        .stats-section {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 25px;
-            margin-top: 50px;
-            padding-top: 50px;
-            border-top: 2px solid #e2e8f0;
-        }
-
-        .stat-item {
-            text-align: center;
-        }
-
-        .stat-number {
-            font-size: 42px;
-            font-weight: 700;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            margin-bottom: 10px;
-        }
-
-        .stat-label {
-            font-size: 16px;
-            color: #4a5568;
-            font-weight: 500;
-        }
-
         .contact-cta {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
@@ -217,6 +221,15 @@
         }
 
         @media (max-width: 768px) {
+            .top-bar-inner {
+                flex-direction: column;
+                gap: 8px;
+            }
+
+            .top-bar a {
+                font-size: 14px;
+            }
+
             .hero-section {
                 padding: 40px 20px;
             }
@@ -257,17 +270,6 @@
                 gap: 15px;
             }
 
-            .stats-section {
-                grid-template-columns: repeat(2, 1fr);
-                gap: 20px;
-                margin-top: 30px;
-                padding-top: 30px;
-            }
-
-            .stat-number {
-                font-size: 32px;
-            }
-
             .contact-cta {
                 padding: 30px 20px;
             }
@@ -290,10 +292,6 @@
                 font-size: 24px;
             }
 
-            .stats-section {
-                grid-template-columns: 1fr;
-            }
-
             .contact-button {
                 font-size: 16px;
                 padding: 12px 25px;
@@ -302,6 +300,19 @@
     </style>
 </head>
 <body>
+    <div class="top-bar">
+        <div class="top-bar-inner">
+            <a href="tel:05477229292">
+                <span>📞</span>
+                <span>0 547 722 92 92</span>
+            </a>
+            <a href="mailto:hemensatapp@gmail.com">
+                <span>✉️</span>
+                <span>hemensatapp@gmail.com</span>
+            </a>
+        </div>
+    </div>
+
     <div class="hero-section">
         <h1>Hakkımızda</h1>
         <p>İlan ve teklif platformunda güvenilir çözümler sunan, kullanıcı deneyimini ön planda tutan bir ekibiz</p>
@@ -370,25 +381,6 @@
                         <span class="value-icon">🛡️</span>
                         <h4>Güvenlik</h4>
                     </div>
-                </div>
-            </div>
-
-            <div class="stats-section">
-                <div class="stat-item">
-                    <div class="stat-number">1000+</div>
-                    <div class="stat-label">Aktif Kullanıcı</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-number">5000+</div>
-                    <div class="stat-label">Yayınlanan İlan</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-number">3000+</div>
-                    <div class="stat-label">Tamamlanan İşlem</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-number">%98</div>
-                    <div class="stat-label">Memnuniyet Oranı</div>
                 </div>
             </div>
 

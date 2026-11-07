@@ -12,7 +12,11 @@ class AuthRepository implements AuthRepositoryInterface
      */
     public function create(array $data): AuthUser
     {
-        return AuthUser::create($data);
+        $user = new AuthUser($data);
+        $user->is_subscribed = true;
+        $user->save();
+
+        return $user;
     }
 
     /**
