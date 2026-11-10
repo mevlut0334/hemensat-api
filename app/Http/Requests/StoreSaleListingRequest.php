@@ -117,7 +117,7 @@ class StoreSaleListingRequest extends FormRequest
         // Varsayılan durumu ayarla
         if (!$this->has("status")) {
             $this->merge([
-                "status" => "draft"
+                "status" => "active"
             ]);
         }
 

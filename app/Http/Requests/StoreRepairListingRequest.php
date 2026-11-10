@@ -30,7 +30,7 @@ class StoreRepairListingRequest extends FormRequest
 
             // Cihaz ve konum bilgileri
             'brand_id' => ['required', 'integer', 'exists:brands,id'],
-            "model_id" => ['required', 'integer', 'exists:models,id'],
+            'model_id' => ['required', 'integer', 'exists:models,id'],
 
             // Opsiyonel alanlar
             'storage_capacity_id' => ['nullable', 'integer', 'exists:storage_capacities,id'],
@@ -41,7 +41,7 @@ class StoreRepairListingRequest extends FormRequest
             'district_id' => [
                 'required',
                 'integer',
-                Rule::exists('districts', 'id')->where('province_id', $this->province_id)
+                Rule::exists('districts', 'id')->where('province_id', $this->province_id),
             ],
 
             // Tamir/hizmet tipi
@@ -50,7 +50,24 @@ class StoreRepairListingRequest extends FormRequest
                 'string',
                 Rule::in(['on_site', 'cargo', 'store_drop']),
             ],
+
+            // İlan durumu ve yayınlanma tarihi
+            'status' => ['nullable', 'string', Rule::in(['draft', 'active', 'inactive', 'completed'])],
+            'published_at' => ['nullable', 'date'],
         ];
+    }
+
+    /**
+     * Varsayılan ilan durumunu ayarla.
+     */
+    protected function prepareForValidation(): void
+    {
+        if (!$this->has('status')) {
+            $this->merge([
+                'status' => 'active',
+                'published_at' => now(),
+            ]);
+        }
     }
 
     /**
